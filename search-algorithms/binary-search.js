@@ -1,6 +1,8 @@
 /**
  * Binary Search Implementation
  *
+ * Time complexity - O(log n)
+ *
  * Searches the input searchItem from a sorted array
  * @param {number[]} inputArray Sorted input array
  * @param {number} searchItem Number to be searched
